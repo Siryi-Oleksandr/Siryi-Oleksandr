@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React, TS and Node.js<br>🎯 Goals: Create useful products for everyone</p>
+<p align="left">📚 I'm currently learning TS and Node.js<br>🎯 Goals: Create useful products for everyone</p>
 
 ###
 
